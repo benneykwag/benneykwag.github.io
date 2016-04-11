@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eui UI Framework  (김앤곽 센차컨설팅 그룹)</title>
+    <title>Eui UI Framework</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>http://kksencha.com/</link>
     <atom:link href="http://kksencha.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 00:29:15 +0900</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 00:29:15 +0900</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 00:39:34 +0900</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 00:39:34 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
