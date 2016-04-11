@@ -6,8 +6,8 @@
 </description>
     <link>http://kksencha.com/</link>
     <atom:link href="http://kksencha.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Apr 2016 19:36:25 +0900</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2016 19:36:25 +0900</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 19:39:27 +0900</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 19:39:27 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -152,11 +152,9 @@ localeProperties 구성요소를 설정한 것이다. 이 요소는 배열이고
 
 </description>
         <pubDate>Fri, 08 Apr 2016 01:25:50 +0900</pubDate>
-        <link>http://kksencha.com/eui/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</link>
-        <guid isPermaLink="true">http://kksencha.com/eui/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</guid>
+        <link>http://kksencha.com/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</link>
+        <guid isPermaLink="true">http://kksencha.com/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</guid>
         
-        
-        <category>eui</category>
         
         <category>lecture</category>
         
@@ -235,11 +233,9 @@ eui프레임웍을 이용한 샘플 앱입니다.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 08 Apr 2016 01:25:50 +0900</pubDate>
-        <link>http://kksencha.com/eui/update/2016/04/08/getting-start.html</link>
-        <guid isPermaLink="true">http://kksencha.com/eui/update/2016/04/08/getting-start.html</guid>
+        <link>http://kksencha.com/update/2016/04/08/getting-start.html</link>
+        <guid isPermaLink="true">http://kksencha.com/update/2016/04/08/getting-start.html</guid>
         
-        
-        <category>eui</category>
         
         <category>update</category>
         

@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Start Eui Framework"
 date:   2016-04-08 01:25:50 +0900
-categories: eui update
+categories: update
 ---
 Eui 프레임웍은 ExtJS 6를 기반으로 하는 프레임웍입니다. 아직 프레임웍으로서의 완전한 형태를 제공하지 못하고 있지만
 한국 실정에 맞는 컴포넌트와 라이브러리를 제공하려고 합니다.
