@@ -6,6 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+disqus: benneykwag
 title: Eui UI Framework  (김앤곽 센차컨설팅 그룹)
 email: benneykwag@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
