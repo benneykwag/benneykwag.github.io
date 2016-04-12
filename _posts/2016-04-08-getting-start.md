@@ -84,3 +84,4 @@ Ext.application({
 이후 sencha app watch나 refresh를 실행하면 사용할 준비는 완료됩니다.
 
 [eui-site]: https://github.com/benneykwag/eui
+[eui-sample-site]: http://benneykwag.github.io/eui/samples/Eui.sample/index.html
