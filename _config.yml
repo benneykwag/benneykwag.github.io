@@ -18,4 +18,7 @@ twitter_username: jekyllrb
 github_username:  benneykwag
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
