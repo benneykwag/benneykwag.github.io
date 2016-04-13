@@ -17,6 +17,8 @@ url: "http://kksencha.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  benneykwag
 
+google_analytics: UA-76381301-1
+
 # Build settings
 # markdown: kramdown
 markdown: redcarpet
