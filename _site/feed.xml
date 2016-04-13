@@ -6,8 +6,8 @@
 </description>
     <link>http://kksencha.com/</link>
     <atom:link href="http://kksencha.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Apr 2016 17:08:06 +0900</pubDate>
-    <lastBuildDate>Wed, 13 Apr 2016 17:08:06 +0900</lastBuildDate>
+    <pubDate>Wed, 13 Apr 2016 17:11:46 +0900</pubDate>
+    <lastBuildDate>Wed, 13 Apr 2016 17:11:46 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -17,6 +17,8 @@
 
 &lt;p&gt;eui프레임웍은 자체 그리드를 통해 CRUD를 쉽게 처리할 수 있도록 지원합니다. 이번 강좌에서는 euigrid의 명령버튼을 포함시키고
 로우를 추가,삭제,수정 등의 기능을 구현해 보도록 하겠습니다.&lt;/p&gt;
+
+&lt;p&gt;eui-sample 앱은 universal app로 생성하였으므로 뷰는 classic폴더에 포함됨을 알고 있자.&lt;/p&gt;
 
 &lt;h1 id=&quot;step-1&quot;&gt;Step 1 : 필요한 파일 및 클래스 정의하기.&lt;/h1&gt;
 
@@ -46,6 +48,16 @@
 &lt;td&gt;Eui.sample.view.grid.BasicModel&lt;/td&gt;
 &lt;td style=&quot;text-align: left&quot;&gt;eui-sample/app&lt;/td&gt;
 &lt;td style=&quot;text-align: left&quot;&gt;ViewModel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Eui.sample.view.grid.Basic&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;eui-sample/classic&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;메인클래스&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Eui.sample.view.grid.RecordForm&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;eui-sample/classic&lt;/td&gt;
+&lt;td style=&quot;text-align: left&quot;&gt;입력 및 수정폼 클래스&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 
