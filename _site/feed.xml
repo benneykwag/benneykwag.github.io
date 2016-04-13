@@ -4,10 +4,10 @@
     <title>Eui Framework</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://kksencha.com/</link>
-    <atom:link href="http://kksencha.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Apr 2016 00:14:34 +0900</pubDate>
-    <lastBuildDate>Thu, 14 Apr 2016 00:14:34 +0900</lastBuildDate>
+    <link>http://benneykwag.github.io/</link>
+    <atom:link href="http://benneykwag.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Apr 2016 00:20:56 +0900</pubDate>
+    <lastBuildDate>Thu, 14 Apr 2016 00:20:56 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -65,8 +65,8 @@
 -- 진행 중.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Apr 2016 16:25:50 +0900</pubDate>
-        <link>http://kksencha.com/lecture/2016/04/13/grid-crud.html</link>
-        <guid isPermaLink="true">http://kksencha.com/lecture/2016/04/13/grid-crud.html</guid>
+        <link>http://benneykwag.github.io/lecture/2016/04/13/grid-crud.html</link>
+        <guid isPermaLink="true">http://benneykwag.github.io/lecture/2016/04/13/grid-crud.html</guid>
         
         
         <category>lecture</category>
@@ -218,8 +218,8 @@ localeProperties 구성요소를 설정한 것이다. 이 요소는 배열이고
 &lt;p&gt;이러한 원리로 버튼 등 다른 컴포넌트에도 적용이 가능하다.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Apr 2016 01:25:50 +0900</pubDate>
-        <link>http://kksencha.com/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</link>
-        <guid isPermaLink="true">http://kksencha.com/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</guid>
+        <link>http://benneykwag.github.io/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</link>
+        <guid isPermaLink="true">http://benneykwag.github.io/lecture/2016/04/08/%E1%84%83%E1%85%A1%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%A5%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.html</guid>
         
         
         <category>lecture</category>
@@ -300,8 +300,8 @@ eui프레임웍을 이용한 샘플 앱입니다.&lt;/p&gt;
 &lt;p&gt;이후 sencha app watch나 refresh를 실행하면 사용할 준비는 완료됩니다.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Apr 2016 01:25:50 +0900</pubDate>
-        <link>http://kksencha.com/update/2016/04/08/getting-start.html</link>
-        <guid isPermaLink="true">http://kksencha.com/update/2016/04/08/getting-start.html</guid>
+        <link>http://benneykwag.github.io/update/2016/04/08/getting-start.html</link>
+        <guid isPermaLink="true">http://benneykwag.github.io/update/2016/04/08/getting-start.html</guid>
         
         
         <category>update</category>
