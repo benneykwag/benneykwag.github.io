@@ -6,8 +6,8 @@
 </description>
     <link>http://benneykwag.github.io/</link>
     <atom:link href="http://benneykwag.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Apr 2016 00:58:45 +0900</pubDate>
-    <lastBuildDate>Fri, 29 Apr 2016 00:58:45 +0900</lastBuildDate>
+    <pubDate>Fri, 29 Apr 2016 00:59:39 +0900</pubDate>
+    <lastBuildDate>Fri, 29 Apr 2016 00:59:39 +0900</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -708,8 +708,6 @@ BaseController에 구현하는 것은 팝업을 띄울때 Util.commonPopup메소
         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;-- 진행 중.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Apr 2016 16:25:50 +0900</pubDate>
         <link>http://benneykwag.github.io/lecture/2016/04/13/grid-crud.html</link>
